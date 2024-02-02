@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExamenAlejandro2EV</string>
+    <string name="salir">Salir</string>
+    <string name="quimico">Químico</string>
+    <string name="consultar">Consultar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="simbolo">Símbolo:</string>
+    <string name="numeroAtomico">Número Atómico:</string>
+    <string name="estado">Estado:</string>
+    <string name="insertar">Insertar</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Borrar</string>
+    <string name="volver">Volver</string>
+    <string name="introduceNom">Introduce el nombre</string>
+    <string name="introduceContra">Introduce la contraseña</string>
+    <string name="login">Login</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="buscar">Buscar</string>
+</resources>
